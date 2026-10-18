@@ -1,0 +1,9 @@
+# Binaries
+pngforensics
+*.bin
+*.exe
+*.out
+
+# Artifacts
+payload.bin
+trailing.bin
